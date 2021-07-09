@@ -15,6 +15,13 @@
 에듀 테크 시장의 지속적인 성장과 더불어 IT 분야에 대한 수요 증가 </br>
 **프로젝트 미리보기 (AWS를 통한 호스팅)** </br>
 http://www.codelit-jds.ml/ </br>
+![메인gif](https://user-images.githubusercontent.com/73115272/125029495-b7651900-e0c4-11eb-9009-5053d08d86af.gif) </br></br>
+![메인헤더_한영gif](https://user-images.githubusercontent.com/73115272/125029480-ae744780-e0c4-11eb-9af4-e31bffd7d741.gif)</br></br>
+![인기검색어gif](https://user-images.githubusercontent.com/73115272/125029501-baf8a000-e0c4-11eb-80bd-411b03939dee.gif)</br></br>
+![강의상세_탭3gif](https://user-images.githubusercontent.com/73115272/125029509-bd5afa00-e0c4-11eb-8857-dc8647c80f30.gif)</br></br>
+
+
+
 
 ------------------------------------------
 **개발환경**
