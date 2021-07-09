@@ -20,10 +20,10 @@ http://www.codelit-jds.ml/ </br>
 **개발환경**
 <br/>
 
-os : windows 10
-language : java, oracle sql, HTML5, CSS3, JavaScript, JQuery
-framework : spring, bootstrap, mybatis
-ide : sts4, vsCode
+os : windows 10 </br>
+language : java, oracle sql, HTML5, CSS3, JavaScript, JQuery </br>
+framework : spring, bootstrap, mybatis </br>
+ide : sts4, vsCode </br>
 
 ------------------------------------------
 **개발 환경 설정 방법(구동시 필요 자료)** <br/>
