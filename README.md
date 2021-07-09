@@ -1,4 +1,4 @@
-# CodeL!ㅅ
+# CodeL!t
 
 
 
@@ -16,26 +16,22 @@
 
 ------------------------------------------
 **개발환경**
-<br/><br/>
+<br/>
 
 os : windows 10
-
 language : java, oracle sql, HTML5, CSS3, JavaScript, JQuery
-
 framework : spring, bootstrap, mybatis
-
 ide : sts4, vsCode
 
 ------------------------------------------
-**개발 환경 설정 방법(구동시 필요 자료)**
-<br/>
+**개발 환경 설정 방법(구동시 필요 자료)** <br/>
 src/main/resources 아래 data-source.properties 파일 필요. </br>
  - datasource.driver
  - datasource.url
  - datasource.username
  - datasource.password
 
-✨키값으로 로컬디비를 만들어서 쓰셔야합니다.
+**키값으로 로컬디비를 만들어서 쓰셔야합니다.**
 <br/><br/>
 
 src - main - webapp - WEB-INF - lib 아래</br>
@@ -50,7 +46,7 @@ src - main - webapp - WEB-INF - lib 아래</br>
 파일을 넣어야 합니다.
 
 ------------------------------------------
-**🎇개발 과정**
+**개발 과정**
 <br/><br/>
 
 2021.05.10
