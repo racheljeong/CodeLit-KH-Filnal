@@ -14,7 +14,7 @@
 **개발 배경** : </br>
 에듀 테크 시장의 지속적인 성장과 더불어 IT 분야에 대한 수요 증가 </br>
 **프로젝트 미리보기 (AWS를 통한 호스팅)** </br>
-http://www.codelit-jds.ml/ </br>
+http://www.codelit-jds.ml/ </br></br></br>
 **메인 캐러셀** </br>
 ![메인gif](https://user-images.githubusercontent.com/73115272/125029495-b7651900-e0c4-11eb-9009-5053d08d86af.gif) </br></br></br>
 **국제화 사용 한/영 변환** </br>
